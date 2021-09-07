@@ -10,6 +10,7 @@ margin-left:6px
 .kz-pad-20 {
 padding: 20px;
 }
-.col-xs-3, .col-xs-9 {
+.col-xs-3,
+.col-xs-9 {
 padding: 0px;
 }
